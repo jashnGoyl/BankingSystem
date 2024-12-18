@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# IntelliJ specific files
+.idea/
+*.iml
+
+# Compiled class files
+*.class
+*.jar
+*.war
+
+# Logs
+*.log
+
+# Build directories
+/target/
+/out/
